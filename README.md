@@ -5,7 +5,7 @@ This simple marble rolling game is surpringly tricky! Keep up if you can and col
 Built with Unity3D 5.6.3p1
 
 # Installation 
-Download [MarbleSingleLevel.exe](https://github.com/SarahLizDettloff/MarbleSingleLevel/blob/master/MarbleSingleLevel.exe?download=true)
+Download [MarbleSingleLevel.exe](https://raw.githubusercontent.com/SarahLizDettloff/MarbleSingleLevel/master/MarbleSingleLevel.exe)
 
 # Screenshot
-![Screenshot](/SarahLizDettloff/MarbleSingleLevel/screenshot.png?raw=true "Marble Single Level Game Screenshot")
+![Screenshot](https://raw.githubusercontent.com/SarahLizDettloff/MarbleSingleLevel/master/Screenshot.png?raw=true "Marble Single Level Game Screenshot")
