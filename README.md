@@ -1,5 +1,5 @@
 # Marble Single Level Game
-This simple marble rolling game is surpringly tricky! Keep up if you can and collect all 42 cubes.
+This simple marble rolling game is surprisingly tricky! Keep up if you can and collect all 42 cubes.
 
 # Built with
 Built with Unity3D 5.6.3p1
