@@ -15,7 +15,7 @@
 
 
 # Marble Single Level Game
-Collect all 101 cubes on the moon. Enjoy the sceneory displaying [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models). Emerse yourself in the haunting sounds of Saturan Radio Emossions and Sun Sonfication provided by [NASA](https://www.nasa.gov/vision/universe/features/halloween_sounds.html). Collection [sound](https://freesound.org/people/JustinBW/sounds/80921/) and success [sound](https://www.freesoundslibrary.com/success-sound-effect/) provided kudos of freesoundslibrary.
+Collect all 101 cubes on the moon. Enjoy the scenery displaying [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models). Emerse yourself in the haunting sounds of Saturan Radio Emossions and Sun Sonfication provided by [NASA](https://www.nasa.gov/vision/universe/features/halloween_sounds.html). Collection [sound](https://freesound.org/people/JustinBW/sounds/80921/) and success [sound](https://www.freesoundslibrary.com/success-sound-effect/) provided kudos of freesoundslibrary.
 
 
 # Built with
