@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/SarahLizDettloff/MarbleSingleLevel/master/MarblingPreview.gif?raw=true" alt="Marbling Preview Gif" />
 </p>
 <p align="center">
-  <button><a href="https://sarahlizdettloff.itch.io/marble-in-space">Play on itch.io</a></button>
+  <button><a href="https://sarahlizdettloff.itch.io/marbling-out-of-this-world">Play on itch.io</a></button>
 </p>
 <p align="center">
   <a href="https://github.com/SarahLizDettloff/MarbleSingleLevel/blob/master/MarbleSingleLevel.exe">Download</a>
