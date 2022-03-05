@@ -1,21 +1,22 @@
 <p align="center">
-
-  <h4 align="center">Marble Single Level Game</h4>
+  <h4 align="center">Marble Out of This World</h4>
   <p align="center">
   <img src="https://raw.githubusercontent.com/SarahLizDettloff/MarbleSingleLevel/master/MarblingPreview.gif?raw=true" alt="Marbling Preview Gif" />
 </p>
-  <p align="center">
-    <a href="https://github.com/SarahLizDettloff/MarbleSingleLevel/blob/master/MarbleSingleLevel.exe">Download</a>
-    ·
-    <a href="https://github.com/sarahlizdettloff/MarbleSingleLevel/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/sarahlizdettloff/MarbleSingleLevel/issues">Request Feature</a>
-  </p>
+<p align="center">
+  <button><a href="https://sarahlizdettloff.itch.io/marble-in-space">Play on itch.io</a></button>
+</p>
+<p align="center">
+  <a href="https://github.com/SarahLizDettloff/MarbleSingleLevel/blob/master/MarbleSingleLevel.exe">Download</a>
+  ·
+  <a href="https://github.com/sarahlizdettloff/MarbleSingleLevel/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/sarahlizdettloff/MarbleSingleLevel/issues">Request Feature</a>
 </p>
 
 
 # Marble Single Level Game
-Collect all 101 cubes on the moon. Enjoy the scenery displaying [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models). Emerse yourself in the haunting sounds of Saturan Radio Emossions and Sun Sonfication provided by [NASA](https://www.nasa.gov/vision/universe/features/halloween_sounds.html). Collection [sound](https://freesound.org/people/JustinBW/sounds/80921/) and success [sound](https://www.freesoundslibrary.com/success-sound-effect/) provided kudos of freesoundslibrary.
+Collect all 101 cubes on the moon. Enjoy the scenery displaying [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models). Immerse yourself in the haunting sounds of Saturn Radio Emissions and Sun Sonification provided by [NASA](https://www.nasa.gov/vision/universe/features/halloween_sounds.html). Collection [sound](https://freesound.org/people/JustinBW/sounds/80921/) and success [sound](https://www.freesoundslibrary.com/success-sound-effect/) provided kudos of freesoundslibrary.
 
 
 # Built with
